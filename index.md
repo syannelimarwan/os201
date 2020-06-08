@@ -7,7 +7,7 @@ Hallo! Selamat datang di GitHub page saya!!
 
 Nama saya Syanne Limarwan.
 
-<img src= "https://twitter.com/syannelimarwan/status/1269913614250504192/photo/1" width="200">
+<img src= "https://pbs.twimg.com/media/EZ-jsXTUMAE-BMJ?format=jpg&name=large" width="200">
 
 [URLs](URLs/)
 
