@@ -5,6 +5,6 @@
 
 Hallo! Selamat datang di GitHub page saya!!
 
-Nama saya Syanne Limarwan
+Nama saya Syanne Limarwan.
 
-*[URLs](URLs/)
+[URLs](URLs/)
