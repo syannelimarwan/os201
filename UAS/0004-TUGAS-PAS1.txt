@@ -1,0 +1,35 @@
+Script started on Mon Jun  8 21:30:55 2020
+syanne.limarwan@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+syannelimarwan
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-213116-ed4f-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-213123-06ae-UAS/> echo -e $CEKSAYA
+syannelimarwan ZCZCSCRIPTSTART 200601-143016 syannelimarwan
+ syannelimarwan syannelimarwan 200601-143039-5915-syanne.limarwan/200601-143039 SEQOK SUMOK 5915ca03
+ syannelimarwan syannelimarwan 200601-143044-7e17-syanne.limarwan/200601-143044 SEQOK SUMOK 7e17c3aa
+ syannelimarwan syannelimarwan 200601-143154-867a-syanne.limarwan/200601-143154 SEQOK SUMOK 867aaed1
+ syannelimarwan syannelimarwan 200601-143207-9db3-syanne.limarwan/200601-143207 SEQOK SUMOK 9db37ff1
+ syannelimarwan ZCZCSCRIPTSTOP 200601-143218 SEQOK
+
+200608-213131-a6a6-UAS/> echo -e $CEKSEBELA1
+syannelimarwan ZCZCSCRIPTSTART 200607-194312 taritrinatha
+ syannelimarwan taritrinatha 200607-194312-e8dd-tari.trinatha/200607-194312 SEQOK SUMOK e8dd4081
+ syannelimarwan taritrinatha 200607-194312-e8dd-tari.trinatha/200607-194312 SEQOK SUMOK e8dd4081
+ syannelimarwan taritrinatha 200607-194317-6865-tari.trinatha/200607-194317 SEQOK SUMOK 6865547c
+ syannelimarwan taritrinatha 200607-194325-ee26-tari.trinatha/200607-194325 SEQOK SUMOK ee26a781
+ syannelimarwan ZCZCSCRIPTSTOP 200607-194338 SEQOK
+
+200608-213154-6b95-UAS/> echo -e $CEKSEBELA2
+syannelimarwan ZCZCSCRIPTSTART 200606-150126 tasyashbr syannelimarwan tasyashbr 200606-150155-647f-tasya.putri81/200606-150155 SEQOK SUMOK 647f5249
+ syannelimarwan tasyashbr 200606-150203-1ab9-tasya.putri81/200606-150203 SEQOK SUMOK 1ab979db
+ syannelimarwan tasyashbr 200606-150207-dc4a-tasya.putri81/200606-150207 SEQOK SUMOK dc4a8898
+ syannelimarwan tasyashbr 200606-150214-732e-tasya.putri81/200606-150214 SEQOK SUMOK 732e51a5
+ syannelimarwan ZCZCSCRIPTSTOP 200606-150222 SEQOK
+200608-213159-47fd-UAS/> exit
+exit
+
+Script done on Mon Jun  8 21:32:07 2020
