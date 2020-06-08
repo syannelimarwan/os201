@@ -1,4 +1,4 @@
-Script started, file is 0001-mytest.txt
+Script started on Mon Jun  1 14:30:16 2020
 syanne.limarwan@badak:~$ PS1="$ "
 $ echo $GitHubUser
 syannelimarwan
@@ -25,5 +25,5 @@ sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
 
 200601-143207-9db3-syanne.limarwan/> exit
 exit
-Script done, file is 0001-mytest.txt
-syanne.limarwan@badak:~$ 
+
+Script done on Mon Jun  1 14:32:18 2020
