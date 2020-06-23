@@ -1,5 +1,5 @@
 Script started on Tue Jun  9 09:53:18 2020
-syanne.limarwan@badak:~/UAS$ PS1="$ "
+]0;syanne.limarwan@badak: ~/UASsyanne.limarwan@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 syannelimarwan
 $ echo $PSTAMP
