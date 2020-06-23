@@ -1,5 +1,5 @@
 Script started on Mon Jun  1 14:30:16 2020
-syanne.limarwan@badak:~$ PS1="$ "
+]0;syanne.limarwan@badak: ~syanne.limarwan@badak:~$ PS1="$ "
 $ echo $GitHubUser
 syannelimarwan
 $ echo $PSTAMP
